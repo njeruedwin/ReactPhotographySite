@@ -1,0 +1,4 @@
+@font-face {
+  font-family: "Unicorn";
+  src: local("Unicorn"), url(./fonts/Unicorn.ttf) format("truetype");
+}
